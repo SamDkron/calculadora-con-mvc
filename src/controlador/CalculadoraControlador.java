@@ -1,3 +1,5 @@
+///*
+/// © 2025 Samuel David Dau Fernández.
 package controlador;
 
 import modelo.*;
