@@ -71,4 +71,4 @@ El botón C reinicia la calculadora a su estado inicial
 
 Este proyecto está bajo la licencia MIT.
 
-**UNIVERSIDAD DEL MAGDALENA**
+**UNIVERSIDAD DEL MAGDALENA, PROGRAMA DE INGENIERÍA DE SISTEMAS**
